@@ -64,9 +64,3 @@ Sex ratio and literacy are both key demographic indicators used in population st
 
 This project demonstrates how SQL can be used not only to query data, but also to structure it properly, clean it effectively, and derive meaningful demographic insights from raw population figures.
 
-
----
-
-## Why This Project Matters
-Sex ratio is a fundamental demographic indicator used in population analysis and public policy discussions.  
-This project demonstrates how SQL can be applied not just to query data, but also to clean it properly and derive meaningful demographic insights from raw population figures.
